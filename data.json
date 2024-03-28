@@ -1,0 +1,28 @@
+{
+  "most_viewed_posts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "section1": "1111Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima, repudiandae! Similique facilis veritatis error cum doloribus, aperiam animi mollitia quos suscipit maxime, aliquam ipsum odio! Suscipit voluptas iure accusantium nam? Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "section2": "22222Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima, repudiandae! Similique facilis veritatis error cum doloribus, aperiam animi mollitia quos suscipit maxime, aliquam ipsum odio! Suscipit voluptas iure accusantium nam? Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "section3": "33333Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima, repudiandae! Similique facilis veritatis error cum doloribus, aperiam animi mollitia quos suscipit maxime, aliquam ipsum odio! Suscipit voluptas iure accusantium nam? Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "category_id": 1,
+      "author_id": 1,
+      "publish_date": "2024-02-11T02:53:23Z",
+      "views_count": 0
+    }
+  ],
+  "latest_posts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "section1": "1111Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima, repudiandae! Similique facilis veritatis error cum doloribus, aperiam animi mollitia quos suscipit maxime, aliquam ipsum odio! Suscipit voluptas iure accusantium nam? Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "section2": "22222Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima, repudiandae! Similique facilis veritatis error cum doloribus, aperiam animi mollitia quos suscipit maxime, aliquam ipsum odio! Suscipit voluptas iure accusantium nam? Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "section3": "33333Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima, repudiandae! Similique facilis veritatis error cum doloribus, aperiam animi mollitia quos suscipit maxime, aliquam ipsum odio! Suscipit voluptas iure accusantium nam? Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "category_id": 1,
+      "author_id": 1,
+      "publish_date": "2024-02-11T02:53:23Z",
+      "views_count": 0
+    }
+  ]
+}

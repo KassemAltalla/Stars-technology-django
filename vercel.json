@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "starsTech_Server/wsgi.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "starsTech_Server/wsgi.py"
+    }
+  ]
+}
