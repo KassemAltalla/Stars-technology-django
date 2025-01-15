@@ -19,4 +19,5 @@ from django.urls import path,include
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('',include('starsBlog.urls')),
+    path('api/', include('store.urls')),  # تضمين مسارات تطبيق المتجر
 ]
